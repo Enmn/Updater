@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style src="webp.js">
+<style>
 body {
   background-color: lightblue;
 }
